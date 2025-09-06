@@ -2,10 +2,10 @@
 //// Colonel-Panic_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Colonel Panic project repositories by @seanpm2001
-//// As of 2025, Friday, July 18th
+//// As of 2025, Friday, September 5th
 
 //// ----------------------------------------------------- \\\\
-//// Colonel Panic Project (2)
+//// Colonel Panic Project (3)
 //// ----------------------------------------------------- \\\\
 
 //// Colonel Panic core (1)
@@ -16,9 +16,13 @@ https://github.com/seanpm2001/Colonel-Panic
 
 https://github.com/seanpm2001/Colonel-Panic_Docs
 
+//// Colonel Panic website (1)
+
+https://github.com/seanpm2001/Colonel-Panic_Website
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (Colonel Panic): 2
-//// 1+1=2
+//// Repo count (Colonel Panic): 3
+//// 1+1+1=3
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -30,15 +34,15 @@ https://github.com/seanpm2001/Colonel-Panic_Docs
 //// Repo count (See also): 0
 //// 0+0=0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 2
-//// 2+0=2
+//// Total repo count: 3
+//// 3+0=3
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 1 (2025, Friday, July 18th at 11:06 pm PST)
-//// Line count (including blank lines and compiler line): 45
+//// File version: 2 (2025, Friday, September 5th at 08:30 pm PST)
+//// Line count (including blank lines and compiler line): 49
 //// ----------------------------------------------------- \\\\
 
 //// End of file
